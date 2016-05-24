@@ -1,0 +1,15 @@
+{
+  "name": "lesson6",
+  "version": "1.0.0",
+  "description": {
+  "istanbul": "^0.3.2",
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+    },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huanshen <550552485@qq.com>",
+  "license": "ISC"
+}
